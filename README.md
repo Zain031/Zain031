@@ -24,8 +24,9 @@
 ###
 
 
-# 💻 Tech Stack:
+
 <div align="center">
+  # 💻 Tech Stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo"  />
