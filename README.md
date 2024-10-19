@@ -1,7 +1,3 @@
-# github-badges
-
-# github
-
 <h2 align="center">Hi 👋! I'm zain and I'm a software developer</h2>
 
 ###
