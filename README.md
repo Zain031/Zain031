@@ -23,8 +23,9 @@
 
 ###
 <div align="center">
-  # 💻 Tech Stack:
-  <div/>
+  <h1><b>💻 Tech Stack:</b></h1>
+</div>
+
 
 
 <div align="center">
